@@ -14,8 +14,9 @@ Vamos tentar pensar em 2 registros para cada entidade para checar o preenchiment
 Resposta: 
 
 1. Sim, assim que fiz as ligações outras tabelas foram se abrindo.
-2. 
-3. Na tabela alunos: Nome e sobrenome é VARCHAR. Idade é Int.
+
+
+2. Na tabela alunos: Nome e sobrenome é VARCHAR. Idade é Int.
    Turmas e cursos: Back, fron e banco de dados é VARCHAR.
    
 3.Alunos pra Curso é muitos pra muitos. Muitos Aluno podem ter muitos cursos.
