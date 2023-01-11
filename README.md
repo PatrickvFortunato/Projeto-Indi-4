@@ -21,5 +21,5 @@ Resposta:
    
 3. Alunos pra Curso é muitos pra muitos. Muitos Aluno podem ter muitos cursos.
   Alunos pra turmas é muitos pra muitos. Muitos Aluno podem ter muitas turmas.
-  Alunos pra Dados é 1 pra muitos. Cada aluno vai ter varios informações.
+  Alunos pra Dados é 1 pra muitos. Cada aluno vai ter várias informações.
 
