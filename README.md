@@ -19,7 +19,7 @@ Resposta:
 2. Na tabela alunos: Nome e sobrenome é VARCHAR. Idade é Int.
    Turmas e cursos: Back, fron e banco de dados é VARCHAR.
    
-3.Alunos pra Curso é muitos pra muitos. Muitos Aluno podem ter muitos cursos.
+ 3.Alunos pra Curso é muitos pra muitos. Muitos Aluno podem ter muitos cursos.
   Alunos pra turmas é muitos pra muitos. Muitos Aluno podem ter muitas turmas.
   Alunos pra Dados é 1 pra muitos. Cada aluno vai ter varios informações.
 
